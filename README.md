@@ -1,2 +1,2 @@
-# Sentiment-Analysis-On-Social-Media
-sentiment-analysisi-on-social-media
+# Social-Media-Sentiment-Analysis
+Social Media Sentiment Analysis

@@ -1,0 +1,7 @@
+['awesom awesom movi',
+ 'great movi ilik lot',
+ 'happi end awesom act hero',
+ 'love',
+ 'bad upto mark',
+ 'could better',
+ 'dissapoint movi']

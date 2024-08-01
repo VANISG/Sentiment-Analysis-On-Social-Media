@@ -1,0 +1,7 @@
+['This was awesome an awesome movie',
+ 'Great movie! Ilikes it a lot',
+ 'Happy Ending! Awesome Acting by hero',
+ 'loved it!',
+ 'Bad not upto the mark',
+ 'Could have been better',
+ 'Dissapointed by the movie']
